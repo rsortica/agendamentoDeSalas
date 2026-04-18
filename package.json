@@ -19,6 +19,13 @@
   },
   "homepage": "https://github.com/rsortica/agendamentoDeSalas#readme",
   "devDependencies": {
-    "mocha": "^11.7.5"
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "supertest": "^7.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
   }
 }
